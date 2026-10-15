@@ -1,0 +1,27 @@
+﻿2026-10-15 11:39:27  OK    USDMXN             262 datos, corte 2026-10-15
+2026-10-15 11:39:27  OK    WTI_INT            262 datos, corte 2026-10-15
+2026-10-15 11:39:28  OK    RBOB_INT           262 datos, corte 2026-10-15
+2026-10-15 11:39:28  OK    COBRE_INT          262 datos, corte 2026-10-15
+2026-10-15 11:39:28  OK    MAIZ_INT           262 datos, corte 2026-10-15
+2026-10-15 11:39:28  OK    TRIGO_INT          262 datos, corte 2026-10-15
+2026-10-15 11:39:28  OK    SOYA_INT           262 datos, corte 2026-10-15
+2026-10-15 11:39:28  OK    GANADO_INT         262 datos, corte 2026-10-15
+2026-10-15 11:39:28  OK    CERDO_INT          262 datos, corte 2026-10-15
+2026-10-15 11:39:29  OK    AZUCAR_INT         262 datos, corte 2026-10-15
+2026-10-15 11:39:29  OK    CAFE_INT           262 datos, corte 2026-10-15
+2026-10-15 11:39:32  OK    ZINC_INT           59 datos, corte 2026-09-01
+2026-10-15 11:39:32  OK    NIQUEL_INT         59 datos, corte 2026-09-01
+2026-10-15 11:39:32  OK    UREA_INT           59 datos, corte 2026-09-01
+2026-10-15 11:39:32  OK    DAP_INT            59 datos, corte 2026-09-01
+2026-10-15 11:39:33  OK    LECHE_INT          262 datos, corte 2026-10-15
+2026-10-15 11:39:33  OK    LECHE_MX           69 datos, corte 2026-09-01
+2026-10-15 11:39:34  OK    ACERO_INT          262 datos, corte 2026-10-15
+2026-10-15 11:39:34  OK    ACERO_MX_LAMINA    69 datos, corte 2026-09-01
+2026-10-15 11:39:34  OK    ACERO_MX_VARILLA   69 datos, corte 2026-09-01
+2026-10-15 11:39:34  OK    ALUMINIO_INT       262 datos, corte 2026-10-15
+2026-10-15 11:39:34  OK    ALUMINIO_MX        69 datos, corte 2026-09-01
+2026-10-15 11:39:34  OK    GAS_INT            262 datos, corte 2026-10-15
+2026-10-15 11:39:34  OK    GAS_MX             69 datos, corte 2026-09-01
+2026-10-15 11:39:34  OK    DIESEL_INT         262 datos, corte 2026-10-15
+2026-10-15 11:39:36  OK    DIESEL_MX          260 datos, corte 2026-09-30
+2026-10-15 11:39:36  Listo: 5078 registros en historico.csv, 0 errores
