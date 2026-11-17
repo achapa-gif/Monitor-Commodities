@@ -889,3 +889,30 @@
 2026-11-16 16:39:49  OK    DIESEL_INT         262 datos, corte 2026-11-16
 2026-11-16 16:39:52  OK    DIESEL_MX          255 datos, corte 2026-09-30
 2026-11-16 16:39:52  Listo: 5167 registros en historico.csv, 0 errores
+2026-11-17 15:27:07  OK    USDMXN             262 datos, corte 2026-11-17
+2026-11-17 15:27:07  OK    WTI_INT            262 datos, corte 2026-11-17
+2026-11-17 15:27:07  OK    RBOB_INT           262 datos, corte 2026-11-17
+2026-11-17 15:27:07  OK    COBRE_INT          262 datos, corte 2026-11-17
+2026-11-17 15:27:07  OK    MAIZ_INT           262 datos, corte 2026-11-17
+2026-11-17 15:27:08  OK    TRIGO_INT          262 datos, corte 2026-11-17
+2026-11-17 15:27:08  OK    SOYA_INT           262 datos, corte 2026-11-17
+2026-11-17 15:27:08  OK    GANADO_INT         262 datos, corte 2026-11-17
+2026-11-17 15:27:08  OK    CERDO_INT          262 datos, corte 2026-11-17
+2026-11-17 15:27:08  OK    AZUCAR_INT         262 datos, corte 2026-11-17
+2026-11-17 15:27:08  OK    CAFE_INT           262 datos, corte 2026-11-17
+2026-11-17 15:27:18  OK    ZINC_INT           59 datos, corte 2026-10-01
+2026-11-17 15:27:18  OK    NIQUEL_INT         59 datos, corte 2026-10-01
+2026-11-17 15:27:18  OK    UREA_INT           59 datos, corte 2026-10-01
+2026-11-17 15:27:18  OK    DAP_INT            59 datos, corte 2026-10-01
+2026-11-17 15:27:18  OK    LECHE_INT          262 datos, corte 2026-11-17
+2026-11-17 15:27:19  OK    LECHE_MX           70 datos, corte 2026-10-01
+2026-11-17 15:27:20  OK    ACERO_INT          262 datos, corte 2026-11-17
+2026-11-17 15:27:20  OK    ACERO_MX_LAMINA    70 datos, corte 2026-10-01
+2026-11-17 15:27:20  OK    ACERO_MX_VARILLA   70 datos, corte 2026-10-01
+2026-11-17 15:27:20  OK    ALUMINIO_INT       262 datos, corte 2026-11-17
+2026-11-17 15:27:20  OK    ALUMINIO_MX        70 datos, corte 2026-10-01
+2026-11-17 15:27:20  OK    GAS_INT            262 datos, corte 2026-11-17
+2026-11-17 15:27:20  OK    GAS_MX             70 datos, corte 2026-10-01
+2026-11-17 15:27:20  OK    DIESEL_INT         262 datos, corte 2026-11-17
+2026-11-17 15:27:23  OK    DIESEL_MX          255 datos, corte 2026-09-30
+2026-11-17 15:27:23  Listo: 5167 registros en historico.csv, 0 errores
